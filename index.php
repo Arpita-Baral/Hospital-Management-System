@@ -79,7 +79,7 @@ function checklen()
 <div class="container register" style="font-family: 'IBM Plex Sans', sans-serif;">
                 <div class="row">
                     <div class="col-md-3 register-left" style="margin-top: 10%;right: 5%">
-                        <img src="img\Konark-Sun-Temple-History-Architecture-and-Information.webp" alt=""/>
+                        <img src="img\logo.png" alt=""/>
                         <h3>Welcome</h3>
                        
                     </div>
